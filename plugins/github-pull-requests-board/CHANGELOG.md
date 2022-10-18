@@ -1,5 +1,11 @@
 # @backstage/plugin-github-pull-requests-board
 
+## 0.1.5
+
+### Patch Changes
+
+- 80d75adf3a: Replace the momentjs dependency with luxon.
+
 ## 0.1.4
 
 ### Patch Changes
